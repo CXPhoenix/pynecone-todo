@@ -1,0 +1,5 @@
+.venv
+.web
+pynecone.db
+poetry.lock
+__pycache__
